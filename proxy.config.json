@@ -1,0 +1,7 @@
+{
+    "/api/*":{
+        "target": "https://masglobalconsulting.herokuapp.com",
+        "secure": true,
+        "logLevel": "debug"
+    }
+}

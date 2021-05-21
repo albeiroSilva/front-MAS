@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+.contenedor{
+    margin: 40px;
+}
+button{
+    height: 50px;
+    margin-left: 40px;
+}
+.table td{
+    text-align:center;
+}
+.mat-cell {
+    font-size: 10px;
+    min-height: 48px;
+    border-right: 1px solid rgb(224, 222, 222);
+    border-left: 1px solid rgb(224, 222, 222);
+    text-align:center;
+}
+.mat-header-cell{
+    background-color: #d2e9ff ;
+    text-align:center;
+    border-right: 1px solid rgb(224, 222, 222);
+    border-left: 1px solid rgb(224, 222, 222);
+   
+}
