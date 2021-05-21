@@ -11,6 +11,7 @@ export class EmployeeService {
 
  
   private baseEndPonint = 'https://masglobalconsulting.herokuapp.com/api/employees/';
+  //private baseEndPonint = 'http://localhost:8000/api/employees/';
   constructor(private http: HttpClient) { }
 
   public listar(): Observable<Employee[]>{
